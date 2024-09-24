@@ -12,6 +12,8 @@ order: 4
 &ensp;&ensp;&ensp;&ensp;&ensp;*I am 20 years of age, born in Changzhou, Jiangsu, China, and I am presently pursuing a degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). Should you wish to get in touch, kindly make use of the link in the lower-left corner of this site.*  
 &ensp;&ensp;&ensp;&ensp;&ensp;*A little about myself: I have a passion for digital technology, music, and animation. I am also a game enthusiast; some of my favourite games include Minecraft,  Blue Archive, Reverse 1999, the GTA series, Pokemon from the Gameboy era, and Rayark's Deemo and Cytus. Music plays an important role in my life, with a particular fondness for the compositions of Debussy and the Strauss family, as well as soft rock from artists such as Richard Marx, Air Supply, Bertie Higgins, Chicago, and Coldplay.*  
 &ensp;&ensp;&ensp;&ensp;&ensp;*I am most grateful for your visit, and I do hope you enjoy your stay.*  
-&ensp;&ensp;&ensp;&ensp;&ensp;*Kind regards,*  
-&ensp;&ensp;&ensp;&ensp;&ensp;*York Waugh*  
-&ensp;&ensp;&ensp;&ensp;&ensp;*23rd September 2024*
+  
+*Kind regards,*  
+<img src="/assets/img/about/signature.png" alt="signature" style="display: block; margin-left: 0; width: 50%; max-width: 882px; height: auto;">   
+*York Waugh*  
+*23rd September 2024*
