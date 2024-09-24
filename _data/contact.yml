@@ -8,9 +8,11 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://github.com/YorkWaugh'
 
 - type: twitter
   icon: "fa-brands fa-twitter"
+  url:  'https://twitter.com/YorkWaugh'
 
 - type: mastodon
   icon: 'fab fa-mastodon'
