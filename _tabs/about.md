@@ -16,7 +16,8 @@ order: 4
 
 &ensp;&ensp;&ensp;&ensp;&ensp;*Thank you for taking the time to visit my blog. I sincerely hope you enjoy your time here.*  
   
-*Kind regards,*  
-<img src="/assets/img/about/signature.png" alt="signature" style="display: block; margin-left: 0; width: 50%; max-width: 882px; height: auto;">   
+*Kind regards,*
+![signature](/assets/img/about/signature_light.png){: .light style="display: block; margin-left: 0; width: 50%; max-width: 882px; height: auto;"}  
+![signature](/assets/img/about/signature_dark.png){: .dark style="display: block; margin-left: 0; width: 50%; max-width: 882px; height: auto;"}  
 *York Waugh*  
 *23rd September 2024*
