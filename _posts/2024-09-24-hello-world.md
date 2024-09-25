@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, World!"
-author: york
+author: York Waugh
 date: 2024-09-24 10:00:00 +0800
 categories: [Others]
 tags: []
