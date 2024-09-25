@@ -8,15 +8,13 @@ order: 4
 
 *Dear Visitors,*  
 
-&ensp;&ensp;&ensp;&ensp;&ensp;*Hello! My name is York Waugh. It's a pleasure to meet you!*  
+&ensp;&ensp;&ensp;&ensp;&ensp;*I hope this message finds you well. My name is York Waugh, and it is a pleasure to meet you.*  
 
-&ensp;&ensp;&ensp;&ensp;&ensp;*A warm welcome to my personal blog, where I shall occasionally share my musings and stories.*  
+&ensp;&ensp;&ensp;&ensp;&ensp;*This is my personal blog, where I occasionally share thoughts and stories. You are welcome to reach out to me via the link in the bottom left corner of the page. If this is our first interaction, I kindly request that you introduce yourself and mention the purpose of your message, as I tend to be somewhat introverted and may find it difficult to respond to unexpected greetings from unfamiliar individuals.*  
 
-&ensp;&ensp;&ensp;&ensp;&ensp;*I am 20 years of age, born in Changzhou, Jiangsu, China, and I am presently pursuing a degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). Should you wish to get in touch, kindly make use of the link in the lower-left corner of this site.*  
+&ensp;&ensp;&ensp;&ensp;&ensp;*I am 20 years old, born in [Changzhou](https://en.wikipedia.org/wiki/Changzhou), China, and I am currently pursuing a degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). Although I am an engineering student, I would describe myself as fairly relaxed and often guided by my instincts. While my outlook on life is generally more conservative, I am open to and respectful of diverse viewpoints and welcome new experiences. I have a strong interest in technology and digital innovation, and I also enjoy anime, video games, and music. Recently, I have been playing games such as Blue Archive and Reverse 1999 in the ACG genre, rhythm games like Deemo and Cytus, as well as Minecraft. My musical tastes include classical composers such as Debussy and the Strauss family, as well as soft rock artists like Air Supply, Bertie Higgins, Coldplay, and Richard Marx.*  
 
-&ensp;&ensp;&ensp;&ensp;&ensp;*A little about myself: I have a passion for digital technology, music, and animation. I am also a game enthusiast; some of my favourite games include Minecraft,  Blue Archive, Reverse 1999, the GTA series, Pokemon from the Gameboy era, and Rayark's Deemo and Cytus. Music plays an important role in my life, with a particular fondness for the compositions of Debussy and the Strauss family, as well as soft rock from artists such as Richard Marx, Air Supply, Bertie Higgins, Chicago, and Coldplay.*  
-
-&ensp;&ensp;&ensp;&ensp;&ensp;*I am most grateful for your visit, and I do hope you enjoy your stay.*  
+&ensp;&ensp;&ensp;&ensp;&ensp;*Thank you for taking the time to visit my blog. I sincerely hope you enjoy your time here.*  
   
 *Kind regards,*  
 <img src="/assets/img/about/signature.png" alt="signature" style="display: block; margin-left: 0; width: 50%; max-width: 882px; height: auto;">   
