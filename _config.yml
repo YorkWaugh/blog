@@ -122,11 +122,11 @@ comments:
   giscus:
     repo: YorkWaugh/blog_comments # <gh-username>/<repo>
     repo_id: R_kgDOM38x2Q
-    category: General
-    category_id: DIC_kwDOM38x2c4Ci1zU
+    category: Announcements
+    category_id: DIC_kwDOM38x2c4Ci1zT
     mapping: pathname # optional, default to 'pathname'
     strict: 1 # optional, default to '0'
-    input_position: bottom # optional, default to 'bottom'
+    input_position: top # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
 
