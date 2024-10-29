@@ -17,5 +17,5 @@ tags: []
 
 &ensp;&ensp;&ensp;&ensp;&ensp;In an essay about his self-portrait, Einstein wrote, "The bitter and the sweet come from the outside, the hard from within, from one's own efforts." This month has been eventful, even if some occurrences felt distant. I still grappled with profound feelings of helplessness. How small and fragile we are in the face of time and fate! Yet, we must hold onto beliefs that nourish hope for the future. At least now, I have new friends at university, some old acquaintances still in touch, and kind strangers I have met along the way. Canton is a vibrant city, and university life is both exciting and fulfilling. The past three years have been a new journey, and the wounds of the past are slowly healing as I begin to reclaim my former glory and beliefs. Once you set off, don’t look back; face the wind and forge ahead towards freedom and dreams. May the Lord bless us and protect us!  
 
-![Desktop View](/assets/img/posts/2024-09/Baiyun Mountain.jpg){: .normal }
+![Desktop View](/assets/img/posts/2024-10/Baiyun Mountain.jpg){: .normal }
 _Taken at the summit of Baiyun Mountain on 2nd October._
