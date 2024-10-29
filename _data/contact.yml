@@ -11,27 +11,27 @@
   url:  'https://github.com/YorkWaugh'
 
 - type: twitter
-  icon: "fa-brands fa-twitter"
+  icon: "fab fa-twitter"
   url:  'https://twitter.com/YorkWaugh'
 
 - type: mastodon
-  icon: 'fab fa-mastodon'
+  icon: "fab fa-mastodon"
   url:  'https://mastodon.world/@YorkWaugh'
 
 - type: bilibili
-  icon: 'fab fa-bilibili'
+  icon: "fab fa-bilibili"
   url:  'https://space.bilibili.com/521883959'
 
-- type: weibo
-  icon: 'fab fa-weibo'
-  url:  'https://weibo.com/u/6115309015'
+- type: bluesky
+  icon: "fab fa-bluesky"
+  url:  'https://bsky.app/profile/yorkwaugh.bsky.social'
 
 - type: telegram
-  icon: 'fab fa-telegram'
+  icon: "fab fa-telegram"
   url:  'https://t.me/YorkWaugh'
 
 - type: discord
-  icon: 'fab fa-discord'
+  icon: "fab fa-discord"
   url:  'https://discordapp.com/users/1054263458830499892'
 
 - type: rss
@@ -47,10 +47,6 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
